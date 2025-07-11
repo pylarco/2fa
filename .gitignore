@@ -25,3 +25,4 @@ dist-ssr
 
 # relay state
 /.relay/
+package-lock.json
