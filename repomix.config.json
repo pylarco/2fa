@@ -37,7 +37,10 @@
       "bun.lockb",
       "metadata.json",
       "package-lock.json",
-      "tsconfig.tsbuildinfo"
+      "tsconfig.tsbuildinfo",
+      ".relay",
+      "fallbacks",
+      "docs"
     ]
   },
   "security": {
