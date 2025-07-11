@@ -1,0 +1,6 @@
+{
+  "name": "2FA Authenticator",
+  "description": "A sleek and secure web application to generate Time-based One-Time Passwords (TOTP) from your 2FA secret keys. Enter your secret key to get your 2FA codes instantly.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
